@@ -15,3 +15,19 @@ img {
 #about {
     text-align: left;
 }
+
+#home {
+    background-color: lightgray !important;
+}
+
+#projects {
+    background-color: lightskyblue;
+}
+
+#about {
+    background-color: lightsteelblue;
+}
+
+#contact {
+    background-color: rgb(214, 228, 241);
+}
