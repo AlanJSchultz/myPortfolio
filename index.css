@@ -1,0 +1,17 @@
+/* Portfolio */
+
+a:hover {
+    color: red !important;
+}
+
+#projects {
+    text-align: center;
+}
+
+img {
+    padding-bottom: 2rem;
+}
+
+#about {
+    text-align: left;
+}
